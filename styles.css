@@ -1,0 +1,37 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    min-width: none;
+    font-size: 2rem;
+}
+
+.container {
+    padding-left: 30vh;
+    padding-right: 30vh;
+    margin: 5vh;
+}
+
+
+table {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    min-width:30vh;
+    max-height: 50vh;
+}
+
+th {
+    background: grey;
+    padding: 3vh;
+}
+ 
+td {
+    padding: 7vh;
+}
+
+tr {
+    background: rgb(13, 25, 48);
+    color: white;
+    padding: 100vh;
+}
